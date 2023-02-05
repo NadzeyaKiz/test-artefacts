@@ -1,0 +1,1 @@
+The requirement is to register and log-in successfully to Blaze Demo web application - http://blazedemo.com/ using the test data below. 
